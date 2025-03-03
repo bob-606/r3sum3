@@ -1,4 +1,5 @@
 # r3sum3
+![foto](/foto/IMG_0055.JPG)
 ### **([Github](https://github.com/bob-606/); [📲](tel:+351912073314); [📧](mailto:kood@jjl.ch); [TG](https://t.me/musubito))**
 NB!  The clickable action items contain legitimate links (i.e., no tracker nor malware). 
 
