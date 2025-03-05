@@ -1,5 +1,5 @@
 # r3sum3
-### **([Github](https://github.com/bob-606/); [📲](tel:+351912073314); [📧](mailto:kood@jjl.ch); [TG](https://t.me/musubito))**
+### **([Github](https://github.com/bob-606/); [📲](tel:+37258802547); [📧](mailto:kood@jjl.ch); [TG](https://t.me/musubito))**
 NB!  The clickable action items contain legitimate links (i.e., no tracker nor malware). 
 
 ---
@@ -8,10 +8,11 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 
 | **Skill**                      | **Project**                                                                                 |
 |---------------------------------|-------------------------------------------------------------------------------------------------------|
-| **Multilingual Proficiency** (🇬🇧 🇰🇷 🇯🇵) | [Trasnscript](https://drive.google.com/file/d/1t4EDYXCSYReYP3TesPi2r2IMMpRNusyY/view?usp=sharing) |
+| **Interdisciplinarity** (👨‍🔬 👨‍💼) | [Trasnscript](https://drive.google.com/file/d/1t4EDYXCSYReYP3TesPi2r2IMMpRNusyY/view?usp=sharing) |
 | **[Programming & Scripting](https://github.com/bob-606)** (e.g., Go, JS, Git, Bash) | [todo](https://todo.jjl.ch/); [bomb](https://bomb.jjl.ch/) ([Repo](https://github.com/bob-606/bomb))
 | **[Data Analysis & DBMS](https://github.com/bob-606)** (e.g., R, Python) | [MSIT-5226](https://github.com/bob-606/MSIT-5226); [kood](https://kood.jjl.ch/) |
 | **Project Management**      | [circa](https://circa.jjl.ch/); [kryptonID](https://github.com/deorlovnis/KryptonID/blob/main/kryptonID%20(1).pdf)|
+| **Multilingual Proficiency** (🇬🇧 🇰🇷 🇯🇵) | [Trasnscript](https://drive.google.com/file/d/1t4EDYXCSYReYP3TesPi2r2IMMpRNusyY/view?usp=sharing) |
 
 ---
 
