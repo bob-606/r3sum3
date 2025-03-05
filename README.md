@@ -13,6 +13,8 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 | **[Data Analysis & DBMS](https://github.com/bob-606)** (e.g., R, Python) | [MSIT-5226](https://github.com/bob-606/MSIT-5226); [kood](https://kood.jjl.ch/) |
 | **Project Management**      | [circa](https://circa.jjl.ch/); [kryptonID](https://github.com/deorlovnis/KryptonID/blob/main/kryptonID%20(1).pdf)|
 | **Multilingual Proficiency** (🇬🇧 🇰🇷 🇯🇵) | [Trasnscript](https://drive.google.com/file/d/1t4EDYXCSYReYP3TesPi2r2IMMpRNusyY/view?usp=sharing) |
+| **Intelligence Analysis** (FININT, OSINT, IMINT, GEOINT) | [Gitea](https://01.kood.tech/git/jlim) |
+
 
 ---
 
