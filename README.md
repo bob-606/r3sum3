@@ -21,10 +21,10 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 # ***Experience***
 ## OWGS / Interpreter & Coach (Legal & Medical)
 **OCTOBER 2024 – CURRENT, USA**
-- **Multilingual Communication**: Provided real-time interpretation for legal proceedings, medical consultations, and contractual negotiations.
-- **Team Coaching**: Train interpreters on cross-cultural communication strategies, improving client satisfaction.
-- **Document Translation**: Translated legal agreements, medical records, and compliance reports with accuracy and confidentiality.
-- **Cross-Cultural Collaboration**: Partnered with legal, healthcare, and corporate teams to streamline cross-border communication.
+- **Multilingual Communication**: Providing real-time interpretation for legal proceedings, medical consultations, and contractual negotiations.
+- **Team Coaching**: Training interpreters on cross-cultural communication strategies, improving client satisfaction.
+- **Document Translation**: Translating legal agreements, medical records, and compliance reports with accuracy and confidentiality.
+- **Cross-Cultural Collaboration**: Partnering with legal, healthcare, and corporate teams to streamline cross-border communication.
 
 ## Wise / AML Specialist
 **FEBRUARY 2023 – AUGUST 2024, ESTONIA**
