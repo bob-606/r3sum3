@@ -21,7 +21,7 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 # ***Experience***
 ## OWGS / Interpreter & Coach (Legal & Medical)
 **OCTOBER 2024 – CURRENT, USA**
-- **Multilingual Communication**: Providing real-time interpretation for legal proceedings, medical consultations, and contractual negotiations.
+- **Multilingual Communication**: Providing interpretation for legal proceedings, medical consultations, and contractual negotiations.
 - **Team Coaching**: Training interpreters on cross-cultural communication strategies, improving client satisfaction.
 - **Document Translation**: Translating legal agreements, medical records, and compliance reports with accuracy and confidentiality.
 - **Cross-Cultural Collaboration**: Partnering with legal, healthcare, and corporate teams to streamline cross-border communication.
