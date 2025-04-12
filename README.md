@@ -30,19 +30,19 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 **FEBRUARY 2023 – AUGUST 2024, ESTONIA**
 - **Multilingual Client Support**: Resolved compliance cases in English and Japanese, achieving a 98% satisfaction rate.
 - **Data Integration**: Extracted and converted SQL datasets into XML for AML reporting and FinCrime analysis.
-- **Compliance Automation**: Built Python scripts to automate KYC workflows, reducing manual reporting efforts by 40%.
+- **Compliance Automation**: Built tools and scripts to automate KYC workflows, reducing manual reporting efforts by 40%.
 
 ## Hanwha Group / Project Manager
-**JANUARY 2019 – DECEMBER 2019, IRAQ**
+**JANUARY 2019 – September 2019, IRAQ**
 - **Project Management**: Led initiatives to develop tools and systems for analyzing activities in volatile regions.
-- **All-Source Research**: Directed the collection of intelligence from open sources, including the dark web.
+- **Business Development**: Identified business opportunities; and assessed their feasibility and viability.
 - **KYC & Corporate Due Diligence**: Performed background checks using confidential databases. 
 
 ## ROKAF / Intelligence Officer
-**DECEMBER 2013 – DECEMBER 2018, REPUBLIC OF KOREA**
+**DECEMBER 2013 – NOVEMBER 2018, REPUBLIC OF KOREA**
 - **Military Intelligence**: Conducted multi-source intelligence operations to identify national security threats.
-- **Operational Intelligence**: Provided actionable intelligence for defense operations, ensuring national security.
-- **Threat Assessment & Reporting**: Delivered intelligence reports on high-risk individuals and entities.
+- **Stakeholder Engagement**: Delivered concise briefings to executives, highlighting actionable insights.
+- **International Cooperation**: Partnered with international counterparts (e.g., U.S., EU) to align intelligence.
 
 ---
 
