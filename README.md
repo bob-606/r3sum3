@@ -22,8 +22,8 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 ## OWGS / Interpreter & Coach (Legal & Medical)
 **OCTOBER 2024 – CURRENT, USA**
 - **Multilingual Communication**: real-time interpretation for legal proceedings, medical consultations, and contractual negotiations.
-- **Team Coaching**: Training interpreters on cross-cultural communication strategies, improving client satisfaction.
-- **Document Translation**: Translating legal, medical, and compliance reports with accuracy and confidentiality.
+- **Team Coaching**: Training interpreters on cross-cultural communication strategies, improving quality and client satisfaction.
+- **Document Translation**: Translating legal agreements, medical records, and compliance reports with accuracy and confidentiality.
 
 ## Wise / AML Specialist
 **FEBRUARY 2023 – AUGUST 2024, ESTONIA**
