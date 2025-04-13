@@ -13,7 +13,7 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 | **[Data Analysis & DBMS](https://github.com/bob-606)** (e.g., R, Python) | [MSIT-5226](https://github.com/bob-606/MSIT-5226); [kood](https://kood.jjl.ch/) |
 | **Project Management**      | [circa](https://circa.jjl.ch/); [kryptonID](https://github.com/deorlovnis/KryptonID/blob/main/kryptonID%20(1).pdf)|
 | **Multilingual Proficiency** (🇬🇧 🇰🇷 🇯🇵) | [Trasnscript](https://drive.google.com/file/d/1t4EDYXCSYReYP3TesPi2r2IMMpRNusyY/view?usp=sharing) |
-| **Intelligence Analysis** (FININT, OSINT, IMINT, GEOINT) | [Gitea](https://01.kood.tech/git/jlim) |
+| **Intelligence Analysis** (FININT, OSINT, IMINT, GEOINT) | [Gitea](https://01.kood.tech/git/jlim); [Blog](https://insights.unlocks.app/author/tor/) |
 
 
 ---
@@ -34,7 +34,7 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 ## Hanwha Group / Project Manager
 **JANUARY 2019 – September 2019, IRAQ**
 - **Project Management**: Led initiatives to develop tools and systems for analyzing activities in volatile regions (e.g., Iraq, Syria, Iran).
-- **Business Development**: Identified business opportunities; and assessed their feasibility and viability in he Middle East and North Africa (MENA) region.
+- **Business Development**: Identified business opportunities; and assessed their feasibility and viability in the Middle East and North Africa (MENA) region.
 - **KYC & Corporate Due Diligence**: Performed background checks using confidential databases, HUMINT, and OSINT.
 
 ## ROKAF / Intelligence Officer
