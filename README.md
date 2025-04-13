@@ -21,28 +21,27 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 # ***Experience***
 ## OWGS / Interpreter & Coach (Legal & Medical)
 **OCTOBER 2024 – CURRENT, USA**
-- **Multilingual Communication**: Providing interpretation for legal proceedings, medical consultations, and contractual negotiations.
+- **Multilingual Communication**: Providing interpretation for legal, medical, and contractual sessions.
 - **Team Coaching**: Training interpreters on cross-cultural communication strategies, improving client satisfaction.
-- **Document Translation**: Translating legal agreements, medical records, and compliance reports with accuracy and confidentiality.
-- **Cross-Cultural Collaboration**: Partnering with legal, healthcare, and corporate teams to streamline cross-border communication.
+- **Document Translation**: Translating legal, medical, and compliance reports with accuracy and confidentiality.
 
 ## Wise / AML Specialist
 **FEBRUARY 2023 – AUGUST 2024, ESTONIA**
-- **Multilingual Client Support**: Resolved compliance cases in English and Japanese, achieving a 98% satisfaction rate.
-- **Data Integration**: Extracted and converted SQL datasets into XML for AML reporting and FinCrime analysis.
-- **Compliance Automation**: Built tools and scripts to automate KYC workflows, reducing manual reporting efforts by 40%.
+- **Multilingual Client Support**: Resolved compliance cases in various laguages (e.g., EN; JP)
+- **Data Integration**: Extracted and converted SQL datasets into XML for FinCrime analysis.
+- **Compliance Automation**: Built tools and scripts to automate KYC workflows.
 
 ## Hanwha Group / Project Manager
 **JANUARY 2019 – September 2019, IRAQ**
-- **Project Management**: Led initiatives to develop tools and systems for analyzing activities in volatile regions.
+- **Project Management**: Led initiatives to develop and systems for analyzing activities in volatile regions.
 - **Business Development**: Identified business opportunities; and assessed their feasibility and viability.
 - **KYC & Corporate Due Diligence**: Performed background checks using confidential databases. 
 
 ## ROKAF / Intelligence Officer
 **DECEMBER 2013 – NOVEMBER 2018, REPUBLIC OF KOREA**
-- **Military Intelligence**: Conducted multi-source intelligence operations to identify national security threats.
+- **Military Intelligence**: Conducted multi-source intelligence operations to identify security threats.
 - **Stakeholder Engagement**: Delivered concise briefings to executives, highlighting actionable insights.
-- **International Cooperation**: Partnered with international counterparts (e.g., U.S., EU) to align intelligence.
+- **International Ops**: Partnered with international counterparts (e.g., U.S., EU) to align intelligence.
 
 ---
 
