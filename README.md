@@ -33,16 +33,16 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 
 ## Hanwha Group / Project Manager
 **JANUARY 2019 – September 2019, IRAQ**
-- **Project Management**: Led initiatives to develop and systems for analyzing activities in volatile regions.
-- **Business Development**: Identified business opportunities; and assessed their feasibility and viability.
-- **KYC & Corporate Due Diligence**: Performed background checks using confidential databases. 
+- **Project Management**: Led initiatives to develop tools and systems for analyzing activities in volatile regions (e.g., Iraq, Syria, Iran).
+- **Business Development**: Identified business opportunities; and assessed their feasibility and viability in he Middle East and North Africa (MENA) region.
+- **KYC & Corporate Due Diligence**: Performed background checks using confidential databases, HUMINT, and OSINT.
 
 ## ROKAF / Intelligence Officer
 **DECEMBER 2013 – NOVEMBER 2018, REPUBLIC OF KOREA**
 - **Military Intelligence**: Conducted multi-source intelligence operations to identify security threats.
 - **Stakeholder Engagement**: Delivered concise briefings to executives, highlighting actionable insights.
-- **International Ops**: Partnered with international counterparts (e.g., U.S., EU) to align intelligence.
-
+- **International Cooperation**: Partnered with international counterparts (e.g., U.S., EU) to align intelligence.
+  
 ---
 
 # ***Education***
