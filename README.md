@@ -41,7 +41,7 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 **DECEMBER 2013 – NOVEMBER 2018, REPUBLIC OF KOREA**
 - **Military Intelligence**: Conducted multi-source intelligence operations to identify security threats.
 - **Stakeholder Engagement**: Delivered concise briefings to executives, highlighting actionable insights.
-- **International Co-Ops**: Partnered with international counterparts (e.g., U.S., EU) to align intelligence.
+- **International Co-Ops**: Partnered with international counterparts (e.g., US & EU) to align intelligence.
   
 ---
 
