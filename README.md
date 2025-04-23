@@ -6,7 +6,7 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 
 # ***Skillset & Portfolio***
 
-| **Skill**                      | **Project**                                                                                 |
+| **Skill**                      | **PoW**                                                                                 |
 |---------------------------------|-------------------------------------------------------------------------------------------------------|
 | **Interdisciplinarity** (👨‍🔬 👨‍💼) | [Trasnscript](https://drive.google.com/file/d/1t4EDYXCSYReYP3TesPi2r2IMMpRNusyY/view?usp=sharing) |
 | **[Programming & Scripting](https://github.com/bob-606)** (e.g., Go, JS, Git, Bash) | [todo](https://todo.jjl.ch/); [bomb](https://bomb.jjl.ch/) ([Repo](https://github.com/bob-606/bomb))
