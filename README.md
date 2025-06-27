@@ -47,7 +47,7 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 
 # ***Education***
 ## kood/Jõhvi / Full-stack Developer Course
-**SEPTEMBER 2023 – AUGUST 2025, ESTONIA**
+**SEPTEMBER 2023 – JUNE 2025, ESTONIA**
 - **Coding for Solutions**: Developing solutions (e.g., GoLang; JavaScript) via coding challenges.
 - **Collaborative Learning**: Participated in group projects and virtual collaborations.
 
